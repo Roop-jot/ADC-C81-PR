@@ -1,0 +1,12 @@
+.body
+{
+    background-image: url("colorful_background-301.jpg");
+    background-position: center;
+    background-size: cover;    
+}
+.myCanvas
+{
+    border-width: 10px;
+    background-color: rgb(255, 255, 255); 
+    border-style: ridge;
+}
